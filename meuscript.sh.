@@ -1,0 +1,4 @@
+#!/bin/bash
+# este e meu primeiro script do bash
+cd/
+ls -l
